@@ -1,5 +1,6 @@
 #.\venv\Scripts\Activate.ps1
 
+streamlit
 numpy
 pandas
 
@@ -18,5 +19,8 @@ bcrypt
 segno
 pillow
 
-streamlit
+
+
+librosa
+resemblyzer
 
